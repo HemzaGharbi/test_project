@@ -4,6 +4,6 @@ public class Main {
 
         System.out.println("Hallo Git");
         int i = 5;
-        System.out.println(i);
+        System.out.println("your number is :" + i);
     }
 }
